@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+form{
+	display:flex;
+	flex-flow:column wrap;
+	align-items:space-between;
+}
